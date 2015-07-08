@@ -1,0 +1,16 @@
+[
+{
+  "modid": "enderstuff",
+  "name": "Ender Stuff",
+  "description": "Make stuff from enderman related...stuff.",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Haku"],
+  "credits": "MrCrayfish, Orange Tutorial, Pahimar",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
